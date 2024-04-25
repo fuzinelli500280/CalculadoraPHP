@@ -1,4 +1,4 @@
-# CalculadoraPHP
+# calc_php
 Calculadora Simples em PHP, HTML &amp; CSS
 
 https://fuzinelli500280.github.io/CalculadoraPHP/
